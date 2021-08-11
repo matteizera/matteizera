@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://br.linkedin.com/in/lucas-malfertheiner-5a82a6140)
 <div>
   <a href="https://github.com/matteizera">
   <img height="180em" src="https://github-readme-stats-brown-pi.vercel.app/api?username=matteizera&show_icons=true&include_all_commits=true&count_private=true"/>
