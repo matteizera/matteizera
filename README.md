@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div>
+  <a href="https://github.com/matteizera">
+  <img height="180em" src="https://github-readme-stats-brown-pi.vercel.app/api?username=matteizera&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-brown-pi.vercel.app/api/top-langs/?username=matteizera&layout=compact"/>
+</div>
 
 <!--
 **matteizera/matteizera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
